@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Cookie Clicker",
+  "description": "A simple 'Cookie Clicker' style game || Created by Torry Hogan",
+  "version": "1.0.4",
+
+  "browser_action": {
+   "default_icon": "/img/icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+
+}
